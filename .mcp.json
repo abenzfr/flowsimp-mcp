@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "flowsimp": {
+      "type": "http",
+      "url": "https://flowsimp.com/mcp"
+    }
+  }
+}

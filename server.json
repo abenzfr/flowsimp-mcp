@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.flowsimp/flowsimp",
+  "title": "Flowsimp",
+  "description": "Turn Mermaid or an indented outline into an editable flowchart link. Completely free, no API key.",
+  "version": "1.0.2",
+  "websiteUrl": "https://flowsimp.com/mcp",
+  "repository": {
+    "url": "https://github.com/flowsimp/flowsimp-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://flowsimp.com/mcp"
+    }
+  ]
+}
