@@ -3,7 +3,7 @@
   "name": "com.flowsimp/flowsimp",
   "title": "Flowsimp",
   "description": "Turn Mermaid or an indented outline into an editable flowchart link. Completely free, no API key.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "websiteUrl": "https://flowsimp.com/mcp",
   "repository": {
     "url": "https://github.com/flowsimp/flowsimp-mcp",
@@ -13,6 +13,15 @@
     {
       "type": "streamable-http",
       "url": "https://flowsimp.com/mcp"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://flowsimp.com/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
     }
   ]
 }
